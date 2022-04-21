@@ -1,0 +1,2 @@
+# cw-tokens
+Cosmo Tokens
